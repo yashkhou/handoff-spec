@@ -34,3 +34,12 @@ python -m unittest discover -s tests -v
 ```
 
 MIT licensed.
+
+
+## v0.1.1
+
+**Authority-safe resume validation.** Handoffs can now be checked across resumptions so objective drift, authority expansion, relaxed forbidden actions, and dropped continuation invariants fail closed.
+
+```bash
+PYTHONPATH=src python -m unittest discover -s tests -v
+```
