@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This project now lives in [agent-reliability-lab](https://github.com/yashkhou/agent-reliability-lab/tree/main/packages/handoff-spec).** Its full history was moved there and this repository is archived.
+>
+> `pip install "git+https://github.com/yashkhou/agent-reliability-lab#subdirectory=packages/handoff-spec"`
+
+
 # handoff-spec
 
 A strict, resumable handoff document for long-running agents: state, evidence, authority and continuation invariants in one portable contract.
